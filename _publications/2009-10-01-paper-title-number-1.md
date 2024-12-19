@@ -1,6 +1,6 @@
 ---
 title: "The management of labour recruitment: The hotel chains during the Spanish tourism boom, 1959-1973"
-authors: 'Authors: José Antonio García-Barrero & Carles Manera'
+authors: 'José Antonio García-Barrero & Carles Manera'
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
@@ -8,7 +8,7 @@ excerpt: 'This paper explores the labour management of hotel chains during the S
 date: 2021-10-01
 venue: 'Annals of Tourism Research'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0160738320302309'
-impact: 'Impact Factor: 12.8 JCR, 3.1 SJR, Q1 (2021).'
+
 
 ---
 
