@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome
+Welcome!
 ======
 I am a Margalida Comas postdoctoral researcher at the University of the Balearic Islands and a Jordi Nadal Center for Economic History Studies research fellow. I have a PhD degree in economic history from the University of Barcelona, the University Carlos III of Madrid and the University of Valencia.
 
