@@ -1,6 +1,6 @@
 ---
 title:"The formation of tourism labour market in Spain, 1955-1973"
-autors: José Antonio García-Barrero
+autors: 'José Antonio García-Barrero'
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
