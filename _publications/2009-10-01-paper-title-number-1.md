@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'jaja'
-date: 2021
+date: 2010-10-01
 venue: 'Annals of Tourism Research'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0160738320302309'
 Impact Factor: '12.8 JCR, 3.1 SJR, Q1 (2021)'
