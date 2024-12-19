@@ -3,7 +3,6 @@ title: "The management of labour recruitment: The hotel chains during the Spanis
 authors: 'José Antonio García-Barrero & Carles Manera'
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper explores the labour management of hotel chains during the Spanish tourism boom, a period characterized by high labour shortages. Focusing on the behaviour of three prominent emerging hotel chains in the Balearic Islands, we adopt a micro-comparative approach to examine their payrolls. Our findings suggest that the economic and geographical characteristics of the areas where they operated were crucial to their decisions. Firms located in populated areas developed channels of seasonal labour that supplied migrant workers through chain migration and kinship links. Conversely, firms in areas of intense landscape transformation pursued recruitment at origin in specific towns on mainland Spain or in foreign countries. This strategy played a key role in the development of new international tourism destinations.'
 date: 2021-10-01
 venue: 'Annals of Tourism Research'
