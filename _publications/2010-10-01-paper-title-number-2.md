@@ -1,5 +1,5 @@
 ---
-title: "The management of labour recruitment: The hotel chains during the Spanish tourism boom, 1959-1973"
+title: "The formation of the tourism labour market in Spain, 1955-1973"
 authors: 'José Antonio García-Barrero'
 collection: publications
 category: manuscripts
