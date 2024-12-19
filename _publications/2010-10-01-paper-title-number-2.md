@@ -1,5 +1,5 @@
 ---
-title: "The formation of the tourism labour market in Spain, 1955-1973"
+title: "Jj"
 authors: 'José Antonio García-Barrero'
 collection: publications
 category: manuscripts
