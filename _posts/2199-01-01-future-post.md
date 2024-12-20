@@ -1,5 +1,5 @@
 ---
-title: 'Ocells de temporada: la temporalitat de la migració com a factor en la inserció social i econòmica dels migrants'
+title: "Ocells de temporada: la temporalitat de la migració com a factor en la inserció social i econòmica dels migrants"
 date: 2024-10-27
 info: '5 Cèntims blog of the Catalan Economic Society'
 read_time: 6 minutes
