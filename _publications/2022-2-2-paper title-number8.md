@@ -8,5 +8,6 @@ date: 2022-02-17
 venue: 'Superando el covid-19 en las aulas de historia económica'
 editors: 'Leonardo Caruana de las Cagigas & Carlos Larrinaga'
 editorial: 'Universidad de Granada'
+paperurl: 'https://dialnet.unirioja.es/servlet/libro?codigo=871872&orden=0&info=open_link_libro'
 
 ---
