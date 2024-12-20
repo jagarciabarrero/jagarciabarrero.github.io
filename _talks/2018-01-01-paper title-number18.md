@@ -8,5 +8,5 @@ collection: talks
 type: "Seminar"
 venue: "Interuniversity Doctorate Programme on Economic History and Institutions"
 date: 2018-10-01
-location: "Universitat de Barcelona, Barcelona, Spain"
+location: "University of Barcelona, Barcelona, Spain"
 ---
