@@ -7,6 +7,8 @@ excerpt: 'The prevalence of piece rates paid for home-work was a significant cha
 date: 2025-02-17
 venue: 'A Historical Casebook of Wage Formation: Wage determination and wage bargains of the preindustrial World.'
 Impact: 'Editors: Judy Stephenson, Luca Mocarelli & Giulio Ongaro'
+Editors: 'Judy Stephenson, Luca Mocarelli & Giulio Ongaro'
+Editorial: 'Palgrave'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
