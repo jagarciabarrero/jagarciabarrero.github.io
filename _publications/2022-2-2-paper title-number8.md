@@ -1,3 +1,4 @@
+---
 title: "Birds of passage: literatura y cine para la enseñanza de historia económica del turismo y las migraciones"
 collection: publications
 authors: 'José Antonio García-Barrero'
@@ -7,3 +8,5 @@ date: 2022-02-17
 venue: 'Superando el covid-19 en las aulas de historia económica'
 editors: 'Leonardo Caruana de las Cagigas & Carlos Larrinaga'
 editorial: 'Universidad de Granada'
+
+---
