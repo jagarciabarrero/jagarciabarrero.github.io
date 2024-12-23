@@ -7,6 +7,7 @@ excerpt: "This paper studies the process of labour market formation in the touri
 date: 2024-10-14
 venue: 'Revista de Historia Económica - Journal of Iberian and Latin American Economic History'
 paperurl: 'https://www.cambridge.org/core/journals/revista-de-historia-economica-journal-of-iberian-and-latin-american-economic-history/article/formation-of-the-tourism-labour-market-in-spain-19551973/3F851E152A239A3BFC1F5055154DD7F4'
+photos: /images/collage1.jpg
 
 
 ---
