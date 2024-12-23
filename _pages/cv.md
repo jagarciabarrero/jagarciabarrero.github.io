@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-[Download full CV here] (files/cv.pdf)
 
+<a href="/files/cv.pdf" download>Download my full CV here</a>
 ---
+{% include base_path %}
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
