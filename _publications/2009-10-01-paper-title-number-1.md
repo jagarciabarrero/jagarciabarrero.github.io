@@ -7,6 +7,7 @@ excerpt: 'This paper explores the labour management of hotel chains during the S
 date: 2021-10-01
 venue: 'Annals of Tourism Research'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0160738320302309'
+photos: /images/clubmed.jpg
 
 
 ---
