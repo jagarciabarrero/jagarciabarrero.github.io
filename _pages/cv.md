@@ -37,7 +37,7 @@ Work experience
 
 Publications
 ======
- #### Journal Articles
+ *Journal Articles
 
 <ul>
   {% for post in site.publications reversed %}
@@ -47,7 +47,7 @@ Publications
   {% endfor %}
 </ul>
 
-#### Book Chapters
+*Book Chapters
 
 <ul>
   {% for post in site.publications reversed %}
@@ -57,7 +57,7 @@ Publications
   {% endfor %}
 </ul>
 
-#### Other Publications
+*Other Publications
 
 <ul>
   {% for post in site.publications reversed %}
