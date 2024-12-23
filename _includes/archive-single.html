@@ -101,7 +101,7 @@
      {% endif %}
    {% if post.photo %}
         <div class="archive__item-photo">
-          <img src="{{ post.photo | prepend: base_path }}" alt="{{ post.title }}">
+          <img src="{{ post.photos | prepend: base_path }}" alt="{{ post.title }}">
         </div>
       {% endif %}
   </article>
