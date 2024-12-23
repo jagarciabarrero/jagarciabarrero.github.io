@@ -46,9 +46,32 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ ### Journal Articles
+<ul>
+  {% for post in site.publications reversed %}
+    {% if post.category == "manuscripts" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+### Book Chapters
+<ul>
+  {% for post in site.publications reversed %}
+    {% if post.category == "conferences" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+### Other Publications
+<ul>
+  {% for post in site.publications reversed %}
+    {% if post.category == "books" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+</ul>
   
 Talks
 ======
