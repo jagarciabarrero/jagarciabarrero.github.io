@@ -47,6 +47,7 @@ Skills
 Publications
 ======
  ### Journal Articles
+ ------
 <ul>
   {% for post in site.publications reversed %}
     {% if post.category == "manuscripts" %}
@@ -56,6 +57,7 @@ Publications
 </ul>
 
 ### Book Chapters
+------
 <ul>
   {% for post in site.publications reversed %}
     {% if post.category == "conferences" %}
@@ -65,6 +67,7 @@ Publications
 </ul>
 
 ### Other Publications
+------
 <ul>
   {% for post in site.publications reversed %}
     {% if post.category == "books" %}
