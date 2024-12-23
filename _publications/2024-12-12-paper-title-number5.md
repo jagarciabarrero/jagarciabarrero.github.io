@@ -9,6 +9,6 @@ date: 2024-8-1
 venue: 'Economic History Review'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/ehr.13294'
-photos: /images/aves.png
+photos: /images/Aves.png
 
 ---
