@@ -34,20 +34,11 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
- ### Journal Articles
- ------
+ #### Journal Articles
+
 <ul>
   {% for post in site.publications reversed %}
     {% if post.category == "manuscripts" %}
@@ -56,8 +47,8 @@ Publications
   {% endfor %}
 </ul>
 
-### Book Chapters
-------
+#### Book Chapters
+
 <ul>
   {% for post in site.publications reversed %}
     {% if post.category == "conferences" %}
@@ -66,8 +57,8 @@ Publications
   {% endfor %}
 </ul>
 
-### Other Publications
-------
+#### Other Publications
+
 <ul>
   {% for post in site.publications reversed %}
     {% if post.category == "books" %}
@@ -87,7 +78,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
