@@ -14,26 +14,17 @@ redirect_from:
 {% include base_path %}
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economic History, University of Barcelona, University Carlos III of Madrid & University of Valencia, July 2022
+* M.S. in Economic History, University of Barcelona, September 2016
+* B.S. in History, University of the Balearic Islands, July 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2025-: Margalidad Comas Postdoctoral Researcher
+  * University of the Balearic Islands
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2017 - Fall 2021: FPI - Predoctoral Researcher
+  * University of Barcelona
 
 Publications
 ======
