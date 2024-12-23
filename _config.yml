@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "José Antonio García-Barrero"
-title_separator          : ""
+title                    : "About"
+title_separator          : "|"
 name                     : &name "José Antonio García-Barrero"
 description              : &description "José Antonio García-Barrero"
 url                      : https://jagarciabarrero.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
