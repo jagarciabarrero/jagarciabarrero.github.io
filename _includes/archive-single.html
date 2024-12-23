@@ -84,20 +84,12 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% endif %}
   <div class="social-share">
-      <!-- Facebook -->
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ post.url }}" target="_blank" title="Share on Facebook" style="text-decoration: none; color: inherit; font-weight: normal;">
-        <i class="fa fa-facebook"></i> Facebook
-      </a>
+      <a href="https://twitter.com/intent/tweet?text={{ base_path }}{{ page.url }}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-      <!-- Twitter -->
-      <a href="https://twitter.com/share?url={{ base_path }}{{ post.url }}&text={{ post.title }}" target="_blank" title="Share on Twitter" style="text-decoration: none; color: inherit; font-weight: normal;">
-        <i class="fa fa-twitter"></i> Twitter
-      </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-      <!-- LinkedIn -->
-      <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ post.url }}&title={{ post.title }}" target="_blank" title="Share on LinkedIn" style="text-decoration: none; color: inherit; font-weight: normal;">
-        <i class="fa fa-linkedin"></i> LinkedIn
-      </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
     </div>
   
   </article>
