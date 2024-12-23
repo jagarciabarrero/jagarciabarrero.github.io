@@ -37,7 +37,7 @@ Work experience
 
 Publications
 ======
----
+{% capture manuscripts %}
  ### Journal Articles
 
 <ul>
