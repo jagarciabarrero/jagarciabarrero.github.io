@@ -83,6 +83,22 @@
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% endif %}
+  <div class="social-share">
+      <!-- Facebook -->
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ post.url }}" target="_blank" title="Share on Facebook" style="text-decoration: none; color: inherit; font-weight: normal;">
+        <i class="fa fa-facebook"></i> Facebook
+      </a>
 
+      <!-- Twitter -->
+      <a href="https://twitter.com/share?url={{ base_path }}{{ post.url }}&text={{ post.title }}" target="_blank" title="Share on Twitter" style="text-decoration: none; color: inherit; font-weight: normal;">
+        <i class="fa fa-twitter"></i> Twitter
+      </a>
+
+      <!-- LinkedIn -->
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ post.url }}&title={{ post.title }}" target="_blank" title="Share on LinkedIn" style="text-decoration: none; color: inherit; font-weight: normal;">
+        <i class="fa fa-linkedin"></i> LinkedIn
+      </a>
+    </div>
+  
   </article>
 </div>
