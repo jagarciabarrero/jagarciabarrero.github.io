@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Download full CV here] (files/cv.pdf)
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
