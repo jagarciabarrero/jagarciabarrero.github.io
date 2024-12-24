@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* Winter 2025-: Margalidad Comas Postdoctoral Researcher
+* Winter 2025-: Margalida Comas Postdoctoral Researcher
   * University of the Balearic Islands
 
 * Spring 2017 - Fall 2021: FPI - Predoctoral Researcher
