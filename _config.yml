@@ -77,11 +77,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Publications in JCR-ranked journals'    
   conferences:
     title: 'Books & book chapters'
   books:
-    title: 'Other publications'
+    title: 'Publications in journals not ranked in JCR'
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
