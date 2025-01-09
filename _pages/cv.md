@@ -9,7 +9,8 @@ redirect_from:
 
 
 
-<a href="/files/García_Barrero_CV.pdf" download>Download my full CV here</a>
+<a href="/files/García_Barrero_CV.pdf" download style="text-decoration: none;">Download my full CV here</a>
+
 ---
 {% include base_path %}
 Education
