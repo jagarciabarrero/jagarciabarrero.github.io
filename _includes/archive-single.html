@@ -61,7 +61,7 @@
   {% endif %}
   
   {% if post.link %}
-    <a class="archive__item-link" href="{{ post.link }}" target="_blank" rel="noopener">
+    <a class="archive__item-link" href="{{ post.link }}" target="_blank" rel="noopener" style="text-decoration: none;">
       Link
     </a>
   {% endif %}
@@ -71,34 +71,34 @@
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink" style="text-decoration: none;"> Read more</a></strong></p></p>
     {% endif %}
 
     {% if post.citation and post.paperurl and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}" style="text-decoration: none;">Download Paper</a> | <a href="{{ post.slidesurl }}" style="text-decoration: none;">Download Slides</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}" style="text-decoration: none;">Download Paper</a></p>
     {% elsif post.citation and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}" style="text-decoration: none;">Download Slides</a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
+      <p><a href=" {{ post.paperurl }} " style="text-decoration: none;">Download Paper</a></p>
     {% elsif post.slidesurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p><a href="{{ post.slidesurl }}" style="text-decoration: none;">Download Slides</a></p>
     {% endif %}
 
       {% if post.collection == 'publications' %}
 <div class="social-share">
-  <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ post.url }}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter">
+  <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ post.url }}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter" style="text-decoration: none;">
     <i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span>
   </a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook" style="text-decoration: none;">
     <i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span>
   </a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ post.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn">
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ post.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn" style="text-decoration: none;">
     <i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
   </a>
 </div>
@@ -106,3 +106,4 @@
   
   </article>
 </div>
+
