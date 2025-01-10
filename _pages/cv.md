@@ -30,7 +30,7 @@ Work experience
 Publications
 ======
 
-<b>Journal Articles</b>
+<b>Publications in JCR-ranked journals</b>
 
 <ul>
   {% for post in site.publications reversed %}
@@ -50,7 +50,7 @@ Publications
   {% endfor %}
 </ul>
 
-<b>Other Publications</b>
+<b>Publications in journals not ranked in JCR</b>
 
 <ul>
   {% for post in site.publications reversed %}
