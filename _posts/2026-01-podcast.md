@@ -1,6 +1,6 @@
 ---
 title: "Podcast Todo comenzó ayer, episodio 101. The formation of the tourism labour market in Spain, 1955–1973 (In Spanish)"
-date: 2026-6-5
+date: 2026-5-6
 info: 'TODO COMENZÓ AYER, el podcast divulgativo de la Asociación Española de Historia Económica'
 link: 'https://www.ivoox.com/episodio-101-the-formation-of-the-tourism-audios-mp3_rf_173241648_1.html'
 photo: /images/Podcast aehe.png
