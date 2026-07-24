@@ -4,9 +4,10 @@ collection: publications
 authors: 'José Antonio García-Barrero & Carles Manera Erbina'
 category: conferences
 excerpt: 'The prevalence of piece rates paid for home-work was a significant characteristic of labour markets in southern Europe during the late XIX and XX centuries. This chapter analyses the role of these payments in the Balearic footwear industry during this period. Our study reveals their vital role in management strategies, household budgets and wage determination, frequently embedded within the underground economy. Additionally, the findings suggest that piece rates paid by firms for home-work influenced the drive to adopt labour-saving machinery. To conclude, we examine the characteristics of a novel archival source for examining home-work in the textile and footwear sectors in Spain during the Francoist period and their related potential new avenues of research. '
-date: 2025-02-20
+date: 2026-02-20
 venue: 'A Historical Casebook of Wage Formation: Wage determination and wage bargains of the preindustrial World'
 editors: 'Judy Stephenson, Luca Mocarelli & Giulio Ongaro'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-91930-5_5'
 editorial: 'Palgrave'
 ---
 
